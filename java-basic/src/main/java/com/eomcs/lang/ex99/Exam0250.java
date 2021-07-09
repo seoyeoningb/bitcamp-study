@@ -14,6 +14,8 @@ public class Exam0250 {
 
     boolean working = keyboard.nextBoolean();
 
+
+
     keyboard.close();
 
     System.out.printf("%d, %s, %b\n", age, name, working);
