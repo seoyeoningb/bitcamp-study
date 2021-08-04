@@ -17,3 +17,4 @@ public class Truck extends Car {
     System.out.println("짐을 내린다.");
   }
 }
+
